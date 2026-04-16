@@ -8,6 +8,8 @@
 [![Tested Version](https://img.shields.io/badge/Minecraft-1.16--1.21-green.svg)](https://papermc.io)
 [![Platform](https://img.shields.io/badge/Platform-Paper%20%7C%20Spigot-orange.svg)](https://skriptlang.github.io/Skript/)
 
+# https://builtbybit.com/resources/sampah-masyarakat.103771/
+
 **Sampah Masyarakat** (Indonesian for *"Scum of Society"*) is a high-performance Skript designed to eliminate the primary source of server lag: **Entity Clutter**. This script ensures your SMP, Survival, or Factions server remains smooth by automatically managing dropped items with a friendly warning system.
 
 <img width="1280" height="720" alt="Proyek Baru (66)" src="https://github.com/user-attachments/assets/faaee5a0-31e5-44a2-85ed-2fb9251b3280" />
