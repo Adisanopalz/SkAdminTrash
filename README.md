@@ -10,9 +10,14 @@
 
 **Sampah Masyarakat** (Indonesian for *"Scum of Society"*) is a high-performance Skript designed to eliminate the primary source of server lag: **Entity Clutter**. This script ensures your SMP, Survival, or Factions server remains smooth by automatically managing dropped items with a friendly warning system.
 
+<img width="1280" height="720" alt="Proyek Baru (66)" src="https://github.com/user-attachments/assets/faaee5a0-31e5-44a2-85ed-2fb9251b3280" />
+
 ---
 
 ## 🚀 Key Features
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_3wt72h3wt72h3wt7" src="https://github.com/user-attachments/assets/506feac7-ee94-43e6-ab8e-101926c66df4" />
+
 
 * **🔄 Automated Cycles:** Fully autonomous cleanup every 20 minutes.
 * **⚠️ Gradual Warning System:** Smart broadcasts at **1m, 30s, and 10s** to prevent players from losing valuable items.
@@ -33,6 +38,9 @@
 
 ## 🛠️ Installation Guide
 
+<img width="1080" height="1080" alt="Proyek Baru (68)" src="https://github.com/user-attachments/assets/4467b96e-73cb-4320-a968-5649995efefe" />
+
+
 1.  **Requirement:** Ensure you have the [Skript Plugin](https://github.com/SkriptLang/Skript/releases) installed.
 2.  **Download:** Save the file as `sampah.sk`.
 3.  **Upload:** Place the file into your server directory: `/plugins/Skript/scripts/`.
@@ -42,6 +50,9 @@
 
 ## ⚙️ Configuration
 Easily customize the prefix and permissions at the top of the file to match your server branding:
+
+<img width="1080" height="1080" alt="Proyek Baru (69)" src="https://github.com/user-attachments/assets/257cff82-c518-498e-8055-426afd4c3715" />
+
 
 ```applescript
 options:
